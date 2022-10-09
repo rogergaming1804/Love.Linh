@@ -1,3 +1,4 @@
+
 var to = nameGirl;
 var gift_url = giftUrl;
 var gift_image_url = giftImage || giftImageBase64;
