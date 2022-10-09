@@ -1,4 +1,8 @@
 
+// Cần hỗ trợ hãy liên hệ: 
+// Mr-Nam http://facebook.com/nam.nodemy
+// Các bạn muốn học lập trình thì tham gia Nhóm zalo tự học lập trình nhé: https://zalo.me/g/yhdkef092
+
 var to = nameGirl;
 var gift_url = giftUrl;
 var gift_image_url = giftImage || giftImageBase64;
@@ -44,4 +48,4 @@ function init() {
   nametag.innerText = to;
 }
 
-init()
+init();
